@@ -1,0 +1,27 @@
+from typing import Union
+# from ..g_state import g
+
+from fastapi import FastAPI,Request
+from starlette.responses import JSONResponse
+
+from ..Models import User as UserModel, Responses
+from ..Services.Utils.Jwt import AuthJwt
+from ..Services.User import User as UserService
+
+class User:
+    def __init__(self, app:FastAPI):
+        self.services = app.state.services
+        self.jwt:AuthJwt = self.services.JWT
+        self.user:UserService = self.services.User
+
+        @app.post("/models/{model_name}",status_code=201, response_model=Responses.RegSuccess, responses={400: {"model": Responses.RegError}})
+        async def get_model(user: UserModel.UserRegModel, req:Request):
+            # self.user.create(None)
+            # g.app.state.sevices.user: UserService
+            app:FastAPI =req.app
+
+            # print("GLOOOOBAL",(app.state.services))
+            print("REQUEST")
+            # print(user.dict())
+            return JSONResponse(status_code=400, content={"err_msg":f"Login is taken"})
+            # return

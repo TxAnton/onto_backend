@@ -1,0 +1,27 @@
+version: "3.3"
+services:
+  neo4j:
+    image: neo4j
+    container_name: neo4j
+    environment:
+      - NEO4J_AUTH=neo4j/admin
+      - NEO4J_HOME=/neo4j
+      - NEO4J_dbms_security_procedures_unrestricted=apoc.\\\*
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_dbms_security_allow__csv__import__from__file__urls=true
+    volumes:
+      - ./neo4j/data:/data:rw
+      - ./neo4j/plugins:/plugins:rw
+      - ./neo4j:/neo4j:rw
+      - ./neo4j/import:/var/lib/neo4j/import:rw
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "250m"
+        max-file: "2"
+    ports:
+      - "7474:7474"
+      - "7473:7473"
+      - "7687:7687"
+    restart: unless-stopped

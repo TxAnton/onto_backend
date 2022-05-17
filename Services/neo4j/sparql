@@ -1,0 +1,1257 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='item'/>
+		<variable name='itemLabel'/>
+	</head>
+	<results>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q42442324</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Kiisu Miisu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q43260736</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Paddles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q48895080</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hamilton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q49581026</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Toffee</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q50378472</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nutmeg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q50824969</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Liv</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q51596094</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Crimean Tom</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q51827254</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Peter II</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q51841231</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Peter</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q52150156</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Arcturus Aldebaran Powers</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q53216650</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nitama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q54087698</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Foss</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q54257563</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mostik</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q55632071</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Rubble</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q56427306</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Garfi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q56471556</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Brigadier Broccoli</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q57251591</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Beerbohm</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q57623398</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Blackie</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q58310774</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Longcat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q58311218</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sam the Cat has Eyebrows</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q58621231</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Lóu lóu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q60213636</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Trick</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q61133276</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Şero</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q62128317</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Naro</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q63094726</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Embassy Cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q63928240</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Fatso the Cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q64706109</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Souris Calle</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65091914</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Venus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65769811</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Remy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65967183</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Reggie</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65967196</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Gonzo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65967198</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Archie</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q65967200</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Rizzo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q66737405</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mittens</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q76974430</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Apelmon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q79407468</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Abatutu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q94098815</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Meredith Grey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q94100602</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Olivia Benson</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q94990539</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Pip</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q94993819</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Zipper</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q99826810</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Ebisu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q100451536</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sanjūrō</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q100965010</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Myōbu no otodo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q101943970</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Noutti</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q101947824</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tigrette</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q101948600</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Miolek</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q105330885</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tuna</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q106595460</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Curious Zelda</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q106828517</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Doorkins</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q106938943</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Order</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q108442825</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mochimaru</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q109316363</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Takeshi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q110265417</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Winston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q110565455</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Jorts</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q110727478</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Willow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q110752157</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mac the cat sat in a box</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q378619</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>CC</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q498787</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Muezza</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q677525</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Orangey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q851190</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mrs. Chippy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q893453</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Unsinkable Sam</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1050083</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Catmando</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1201902</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tama</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1207136</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Dewey Readmore Books</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1371145</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Socks</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1386318</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>F. D. C. Willard</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1413628</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nora</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1622688</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hodge</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1637234</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Humphrey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1750907</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Towser</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q1759652</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Wilberforce</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2060630</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>India</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2098929</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Simon</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2300851</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Winnie</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2597104</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Creme Puff</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2624688</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sybil</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2634968</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Maru</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q2909987</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mr. Green Genes</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q4421603</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Scarlett</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5049074</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Casper</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5105465</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Choupette</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5317221</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Dusty the Klepto Kitty</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5496635</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Fred the Undercover Kitty</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5503291</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Freya</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q5715272</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Henri</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6651160</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Little Nicky</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6703608</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Luna the Fashion Kitty</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6817786</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Meow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6845813</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mike</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q6928344</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Mr. Nuts</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7105840</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Oscar</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7172400</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Peter, the Lord's cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7243868</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Prince Chunk</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7366253</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Room 8</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7380911</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Rusik</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7430467</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Scarlett's Magic</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7553023</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sockington</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7627362</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Stubbs</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7714263</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Grumpy Cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q7800822</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tiddles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q8999673</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Shironeko</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10344245</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Panther</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10393754</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Willow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q10813994</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tsim Tung Brother Cream</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11279521</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Misuke</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11290753</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Emily</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11291938</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nora</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q11302267</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Kotora</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q12165555</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Félicette</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q14832020</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Lil Bub</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q14916910</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Buurtpoes Bledder</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15835811</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Munich Mouser</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15836515</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nelson</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15840011</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Peta</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15840080</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Peter III</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15851429</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Treasury Bill</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q15991501</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hamish McHamish</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16605098</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Colonel Meow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16835794</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Dorofei</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16950243</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Smudge</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q16985214</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Spangles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17000472</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Poppy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17115860</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Lorenzo the cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17115877</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tara</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17537171</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Pepper the Cat</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q17576799</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Ketzel</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q18535182</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Punkin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q18945952</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Hana</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q19850466</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Filuś</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q19880492</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Frank and Louie</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q19906739</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>FamousNiki</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q20080934</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tiffany Two</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21002390</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Corduroy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21041964</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sammy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21050077</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Merlin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21426728</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Bébert</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21641529</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Matroska</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q21652863</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Freddy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q22774485</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Think Think</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q24084366</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Scooter</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q24298806</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tibs the Great</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q24705153</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Ah Tsai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q25171691</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Palmerston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q25393350</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Tomba</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q25471040</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Pixel</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27190410</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Gladstone</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27739753</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Sister Cream</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27744042</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Bob</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27745002</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Musashi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27745006</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Leo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27745008</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Luca</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27745009</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Seri</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q27745011</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Marble</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q28114532</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Nala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q28665865</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Myka</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='item'>
+				<uri>http://www.wikidata.org/entity/Q28792126</uri>
+			</binding>
+			<binding name='itemLabel'>
+				<literal xml:lang='en'>Gli</literal>
+			</binding>
+		</result>
+	</results>
+</sparql>
